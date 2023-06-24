@@ -1,0 +1,10 @@
+
+ssn:
+ - state:
+    name:karnataka
+    snum:100
+    fnum:150
+ - state:
+    name:andhra
+    snum:300
+    fnum:300	
